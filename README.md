@@ -4,6 +4,7 @@
 💻 Currently learning **Backend Development & AI-powered applications**  
 🚀 Building projects in **JavaScript, Node.js, Express, MySQL, Python, and React**  
 
+
 ---
 
 ## ⚡ Tech Stack
