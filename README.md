@@ -34,8 +34,8 @@
 ## 📁 Featured GitHub Repositories
 
 ### Web Development Projects
-- **[Portfolio Website](https://github.com/JackyChris12/RESUME)** - Personal portfolio showcasing projects and skills
-- **[AgroAI Project](https://github.com/JackyChris12/agroai)** - Agricultural technology solution
+- **[Portfolio Website](https://strategic-systems-hub.vercel.app/)** - Personal portfolio showcasing projects and skills
+- **[AgroAI Project](https://agroai.kobaassociation.org/login)** - Agricultural technology solution
 - **Various Web Projects** - Check my GitHub for more repositories demonstrating web development skills
 
 ### Data Analysis Skills
@@ -65,9 +65,9 @@
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackline-kibiwott-88a924337/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://jackychris12.github.io/RESUME/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JackyChris12)  
+[![LinkedIn](https://www.linkedin.com/in/jackline-kibiwot-88a924337/)  
+[![Portfolio](https://strategic-systems-hub.vercel.app/)  
+[![GitHub](https://github.com/JackyChris12)  
 
 ---
 
