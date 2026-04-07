@@ -35,7 +35,7 @@
 
 ### Web Development Projects
 - **[Portfolio Website](https://strategic-systems-hub.vercel.app/)** - Personal portfolio showcasing projects and skills
-- **[AgroAI Project](https://agroai.kobaassociation.org/login)** - Agricultural technology solution
+- **[AgriSmart](https://https://crop-conduit-ui.web.app/)** - Agricultural technology solution
 - **Various Web Projects** - Check my GitHub for more repositories demonstrating web development skills
 
 ### Data Analysis Skills
